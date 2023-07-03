@@ -1,0 +1,7 @@
+Scala										Java
+----------------------------------------------------------------------------------------------------------------
+Scala is less readable due to nested code.					Java is more readable.
+Scala support operator overloading.						Java does not support operator overloading.
+Scala variables are by default immutable type.					Java variables are by default mutable type.
+Scala does not contain static keyword.						Java contains static keyword.
+Scala is a mixture of both object oriented and functional programming.		Java is a general purpose object oriented language.
