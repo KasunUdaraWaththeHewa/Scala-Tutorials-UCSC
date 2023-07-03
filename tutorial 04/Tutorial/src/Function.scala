@@ -2,15 +2,12 @@ object Function {
   def toUpper(input: String): String = {
     input.toUpperCase()
   }
-
   def toLower(input: String): String = {
     input.toLowerCase()
   }
-
   def formatNames(name: String, formatter: String => String): String = {
     formatter(name)
   }
-
   def main(args: Array[String]): Unit = {
     println(formatNames("Benny", toUpper));
     println(formatNames("Ni", toUpper)+formatNames("roshan", toLower));
