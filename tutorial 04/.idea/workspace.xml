@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b22c98f-4b13-45bb-8fd2-2df4a5509793" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial 4 (2).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programFour$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programOne$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programThree$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programTwo$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial 01/programTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programFour.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programOne.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programThree.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programTwo.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial 01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tutorial 04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tutorial 04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/out/production/Tutorial/Function$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial/out/production/Tutorial/Function$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +23,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/campus lectures/2 nd year 1 st sem/SCS2204 Functional Programming/our/tutorials/tutorial 04&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688389226672</updated>
       <workItem from="1688389228211" duration="66000" />
+      <workItem from="1688715180656" duration="86000" />
+      <workItem from="1688991792712" duration="81000" />
     </task>
     <servers />
   </component>
