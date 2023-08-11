@@ -1,13 +1,13 @@
 object FilterPrime {
-  def isPrime(n: Int, divisor: Int = 2): Boolean = {
+  def isPrime(n: Int, div: Int = 2): Boolean = {
       if (n <= 1) {
         false
-      }else if (n == divisor) {
+      }else if (n == div) {
         true
-      }else if (n % divisor == 0) {
+      }else if (n % div == 0) {
         false
       }else {
-        isPrime(n, divisor + 1)
+        isPrime(n, div + 1)
       }
   }
   def filterPrime(numbers: List[Int]): List[Int] = {
