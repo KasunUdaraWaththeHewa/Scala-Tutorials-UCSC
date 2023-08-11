@@ -11,7 +11,7 @@ object FilterPrime {
       }
   }
   def filterPrime(numbers: List[Int]): List[Int] = {
-    numbers.filter(number => isPrime(number) && number != 1)
+    numbers.filter(number => isPrime(number))
   }
 
   def main(args: Array[String]): Unit = {
