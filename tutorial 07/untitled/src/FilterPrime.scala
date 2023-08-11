@@ -1,16 +1,14 @@
 object FilterPrime {
-  def isPrime(n: Int): Boolean = {
-    if (n <= 1) false
-    else if (n <= 3) true
-    else if (n % 2 == 0 || n % 3 == 0) false
-    else {
-      var i = 5
-      while (i * i <= n) {
-        if (n % i == 0 || n % (i + 2) == 0) return false
-        i += 6
+  def isPrime(n: Int, divisor: Int = 2): Boolean = {
+      if (n <= 1) {
+        false
+      }else if (n == divisor) {
+        true
+      }else if (n % divisor == 0) {
+        false
+      }else {
+        isPrime(n, divisor + 1)
       }
-      true
-    }
   }
   def filterPrime(numbers: List[Int]): List[Int] = {
     numbers.filter(number => isPrime(number) && number != 1)
