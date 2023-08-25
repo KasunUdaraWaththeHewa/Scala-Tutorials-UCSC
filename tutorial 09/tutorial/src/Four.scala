@@ -1,6 +1,6 @@
 class Account(var balance: Double) {
   def deposit(amount: Double): Unit = {
-    require(amount > 0, "Deposit amount must be positive")
+    require(amount >=0, "Deposit amount must be positive")
     balance += amount
   }
 
